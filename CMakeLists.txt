@@ -361,6 +361,7 @@ if(TRITON_BUILD_PYTHON_MODULE)
       MLIRMathToLLVM
       MLIRGPUDialect
       MLIRSCFToControlFlow
+      MLIRControlFlowToSCF
       MLIRIndexToLLVM
 
       # LLVM
